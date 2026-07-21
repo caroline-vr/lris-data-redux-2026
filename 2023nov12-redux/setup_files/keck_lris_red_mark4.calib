@@ -1,0 +1,131 @@
+# Auto-generated calibration association file using PypeIt version:  2.0.1
+# UTC 2026-07-20T00:47:55.063+00:00
+# NOTE: DET01 is a placeholder for the reduced detectors/mosaics
+A:
+  --:
+    amp: '4'
+    binning: 1,1
+    cenwave: 5888.810937
+    decker: cecilia3
+    dichroic: '560'
+    dispangle: 25.217833
+    dispname: 600/5000
+  0:
+    arc:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/Arc_A_0_DET01.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/WaveCalib_A_0_DET01.fits
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00001.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00002.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00003.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00004.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00005.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00006.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00007.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00008.fits
+    tilt:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/Tiltimg_A_0_DET01.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/Tilts_A_0_DET01.fits
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00001.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00002.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00003.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00004.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00005.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00006.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00007.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/rfoc00008.fits
+B:
+  --:
+    amp: '2'
+    binning: 2,1
+    cenwave: 5888.810937
+    decker: cecilia3
+    dichroic: '560'
+    dispangle: 25.217833
+    dispname: 600/5000
+  1:
+    arc:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/Arc_B_1_DET01.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/WaveCalib_B_1_DET01.fits
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00009.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00010.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00011.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00019.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00020.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00021.fits
+    illumflat:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/Flat_B_1_DET01.fits
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00012.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00013.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00014.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00022.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00023.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00024.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00025.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00026.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00027.fits
+    pixelflat:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/Flat_B_1_DET01.fits
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00012.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00013.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00014.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00022.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00023.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00024.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00025.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00026.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00027.fits
+    science:
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00028.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00029.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00030.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00031.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00032.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00033.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00034.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00035.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00036.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00037.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00038.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00039.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00040.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00041.fits
+    standard:
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00015.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00016.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00017.fits
+    - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00018.fits
+    tilt:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/Tiltimg_B_1_DET01.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/Tilts_B_1_DET01.fits
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00009.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00010.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00011.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00019.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00020.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00021.fits
+    trace:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/Edges_B_1_DET01.fits.gz
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/setup_files/Calibrations/Slits_B_1_DET01.fits.gz
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00012.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00013.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00014.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00022.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00023.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00024.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00025.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00026.fits
+      - /home/carolinevr/lris-data-redux-2026/2023nov12-redux/../2023nov12_with_tilsotua_info/red/r231112_00027.fits
