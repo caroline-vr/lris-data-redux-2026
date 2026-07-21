@@ -1,0 +1,43 @@
+# Auto-generated calibration association file using PypeIt version:  2.0.1
+# UTC 2026-07-16T00:53:25.999+00:00
+# NOTE: DET01 is a placeholder for the reduced detectors/mosaics
+A:
+  --:
+    amp: '4'
+    binning: 2,2
+    cenwave: 8081.849304
+    decker: frb22022
+    dichroic: '680'
+    dispangle: 29.418736
+    dispname: 600/10000
+  0:
+    arc:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/setup_files/Calibrations/Arc_A_0_DET01.fits
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/setup_files/Calibrations/WaveCalib_A_0_DET01.fits
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/../multi_600_10000_slitmask/r230417_01064.fits
+    illumflat:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/setup_files/Calibrations/Flat_A_0_DET01.fits
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/../multi_600_10000_slitmask/r230417_01072_with_maskinfo.fits
+    pixelflat:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/setup_files/Calibrations/Flat_A_0_DET01.fits
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/../multi_600_10000_slitmask/r230417_01072_with_maskinfo.fits
+    science:
+    - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/../multi_600_10000_slitmask/r230417_01033.fits
+    tilt:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/setup_files/Calibrations/Tiltimg_A_0_DET01.fits
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/setup_files/Calibrations/Tilts_A_0_DET01.fits
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/../multi_600_10000_slitmask/r230417_01064.fits
+    trace:
+      proc:
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/setup_files/Calibrations/Edges_A_0_DET01.fits.gz
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/setup_files/Calibrations/Slits_A_0_DET01.fits.gz
+      raw:
+      - /home/carolinevr/lris-data-redux-2026/example-data-test-redux-folder/../multi_600_10000_slitmask/r230417_01072_with_maskinfo.fits

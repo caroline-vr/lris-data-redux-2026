@@ -1,0 +1,23 @@
+# Header comment
+FILENAME        cecilia3.autoslitin.trim
+FILEOUT         cecilia3.
+
+Priority        1500
+Epoch           2000.0
+Pos_Angl        98.0
+WSlit           1.2
+SLIT_SEP        0.5
+Slit_len        9.0
+Interact        True
+Verbose         No
+
+END
+
+BOXES 5
+S59 4
+S43 4
+S38 4
+S69 4
+S34 4
+
+END

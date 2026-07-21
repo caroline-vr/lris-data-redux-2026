@@ -1,0 +1,2 @@
+    INFO | 2026-07-16 14:36:52 | show_2dspec.py:main:276 | Offseting slits by 5.236
+   ERROR | 2026-07-16 14:36:55 | display.py:connect_to_ginga:77 | PypeItError: Timeout waiting for ginga to start.  If window does not appear, type `ginga --rcport=11771 --modules=RC,SlitWavelength` on the command line.  In either case, wait for the ginga viewer to open and try the pypeit command again.

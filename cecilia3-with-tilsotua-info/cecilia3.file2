@@ -1,0 +1,88 @@
+ 
+   ****       AUTOSLIT  3.2 OUTPUT        ****
+   ****     Sat Oct 21 08:35:33 2023      ****
+ 
+                                                 
+   ===========================================   
+               Autoslit Parameters               
+   -------------------------------------------   
+                                                 
+   Files:                                        
+   -------------------------------------------   
+   Input object file:              cecilia3.au   
+   Output listing file:            cecilia3.     
+   Output stage coordinate file:   cecilia3.fi   
+   Output file for the punch/mill: cecilia3.fi   
+   -------------------------------------------   
+                                                 
+   Physical parameters:     [default]  [input]   
+   -------------------------------------------   
+   Temperature [C]:              0.0       0.0   
+   Air pressure [mm of Hg]:    486.0     486.0   
+   Latitude:                   19.83     19.83   
+   Wavelength [A]:            6000.0    6000.0   
+   Position angle:              0.00     98.00   
+   Hour angle:                  0.00      0.00   
+   Epoch:                     [center] 2000.00   
+   Slit width [arc-sec]:        1.00      1.20   
+   Slit length [arc-sec]:       5.00      9.00   
+   Slit separation [arc-sec]:   2.76      0.50   
+   -------------------------------------------   
+                                                 
+   Slit layout parameters:                       
+   -------------------------------------------   
+   Top half of mask:    *single* rank of slits   
+   Bottom half of mask: *single* rank of slits   
+   Special plot symbols have priority  >  1500   
+   Slit selection:                 interactive   
+   Pickoff mirror in use:                FALSE   
+   Atmos dispersion corrector in use:     TRUE   
+   Engineering run:                      FALSE   
+   -------------------------------------------   
+                                                 
+   Slit inventory:           assigned/declared   
+   -------------------------------------------   
+   Number of boxes:                       0/ 5   
+   Number of tilted slits:                0/ 0   
+   Number of arc slits:                   0/ 0   
+   Number of line segment slits:          0/ 0   
+   ===========================================   
+ 
+   ===========================================
+                Objects in Field
+   -------------------------------------------
+    Name                Mag        X       Y
+   -------------------------------------------
+   S59                 20.71    277.47  120.15
+   S43                 20.43    316.81  105.36
+   S38                 20.04    328.93   80.17
+   S69                 20.66    261.81  -29.38
+   S34                 20.95    378.79 -102.31
+   MD41                24.31    376.80  -59.51
+   BX628               24.58    246.62   19.51
+   fBM47               25.70    250.44   27.84
+   BX336               23.91    353.51    8.25
+   BX348               24.65    351.94  -14.30
+   BX418               23.99    338.94 -111.04
+   BX587               23.47    268.16   -7.40
+   fC23                26.38    245.50  -47.82
+   BX523               24.64    277.92   57.72
+   fBM40               25.77    290.76   36.17
+   MD43                24.79    372.79  -86.08
+   BM118               24.81    339.93  -93.31
+   BM113               25.17    349.65  -70.37
+   RK120               24.80    255.93  -40.51
+   fBX165              25.54    246.26  -23.77
+   BX665               25.34    245.60  -78.57
+   BX308               25.43    364.12   45.24
+   BX659               23.81    256.10 -142.02
+   BX595               24.41    244.63  132.51
+   BX575               24.71    256.95   98.90
+   BX512               24.78    307.72 -125.46
+   BX454               24.97    289.03  150.08
+   BX532               24.81    263.43  143.09
+   BX681               24.68    252.05 -155.55
+   BX675               25.38    220.94   86.59
+   fBX127              25.72    314.22 -133.31
+   BX637               22.41    235.84   70.50
+   ===========================================
